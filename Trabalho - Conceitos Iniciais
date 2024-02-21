@@ -1,0 +1,18 @@
+Projeto Integrador
+Trabalho - Conceitos Iniciais
+Maria Vitória Costa da Fonseca
+1 - Forneça a definição do termo ARQUIVO, no contexto da computação.
+R: O termo "arquivo" é utilizado para representar um conjunto de dados digitais (imagens,
+vídeos, textos etc) que se relacionam de alguma forma, e que juntos descrevem uma
+informação ou conjunto de informações.
+1.1 - O que é um ARQUIVO DE TEXTO?
+R: Um arquivo de texto é um tipo de arquivo de computador que contém texto simples, ou
+seja, caracteres legíveis por humanos, incluindo letras, dígitos e símbolos especiais.
+2 - Explique o que é uma VARIÁVEL, no contexto da programação de computadores.
+R: Uma variável representa um espaço na memória de um computador, onde diferentes
+tipos de dados (valores) são armazenados durante a execução de um programa. A cada
+variável é atribuído um nome descritivo ou identificador que se refere ao valor salvo.
+3 - Explique o que seria um SERVIDOR, no contexto da computação.
+R: Servidores são computadores ou sistemas computacionais que atendem requisições de
+dispositivos clientes, através de uma ou mais redes, capazes de executar programas,
+prover processamento e armazenar dados.
