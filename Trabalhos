@@ -1,18 +1,43 @@
 Projeto Integrador
 Trabalho - Conceitos Iniciais
 Maria Vitória Costa da Fonseca
+
+Conceitos Iniciais 
+
 1 - Forneça a definição do termo ARQUIVO, no contexto da computação.
 R: O termo "arquivo" é utilizado para representar um conjunto de dados digitais (imagens,
 vídeos, textos etc) que se relacionam de alguma forma, e que juntos descrevem uma
 informação ou conjunto de informações.
+
 1.1 - O que é um ARQUIVO DE TEXTO?
 R: Um arquivo de texto é um tipo de arquivo de computador que contém texto simples, ou
 seja, caracteres legíveis por humanos, incluindo letras, dígitos e símbolos especiais.
 2 - Explique o que é uma VARIÁVEL, no contexto da programação de computadores.
+
 R: Uma variável representa um espaço na memória de um computador, onde diferentes
 tipos de dados (valores) são armazenados durante a execução de um programa. A cada
 variável é atribuído um nome descritivo ou identificador que se refere ao valor salvo.
 3 - Explique o que seria um SERVIDOR, no contexto da computação.
+
 R: Servidores são computadores ou sistemas computacionais que atendem requisições de
 dispositivos clientes, através de uma ou mais redes, capazes de executar programas,
 prover processamento e armazenar dados.
+
+Computadores e Arquivos 
+
+1 - Encontre referências e comente: 
+
+a. A relação entre o LGPD e os Data Centers no Brasil. 
+R: O mundo vive de troca de dados e informações em frações de segundo, por isso, 
+a exposição de dados online carece de cuidados extremos amparados pela proteção de dados. 
+A LGPD trata com ênfase sobre o cumprimento dessa segurança com a exigência para adaptação às novas regras de privacidade de dados. 
+Os Data Centers, um celeiro de dados, precisam estar de acordo com estes parâmetros de segurança, para que nenhum provedor 
+sofra danos ou perdas físicas capazes de atingir dados armazenados em nuvem de seus clientes.
+
+b. Formatos de arquivos de dados proprietários e abertos.
+R: 
+
+b.1 - Forneça exemplos de formatos.
+R: 
+
+b.2 - Discuta as implicações relacionadas a dados públicos. 
