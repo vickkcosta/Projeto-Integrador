@@ -35,9 +35,17 @@ Os Data Centers, um celeiro de dados, precisam estar de acordo com estes parâme
 sofra danos ou perdas físicas capazes de atingir dados armazenados em nuvem de seus clientes.
 
 b. Formatos de arquivos de dados proprietários e abertos.
-R: 
+R: Formato é um modo específico de codificar a informação para o seu armazenamento e recuperação em um arquivo de computador. 
+Formatos portam padrões e são implementados por softwares, podendo ser abertos ou fechados, livres ou proprietários. 
+Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem 
+padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos.
 
 b.1 - Forneça exemplos de formatos.
-R: 
+R: São exemplos de fomatos proprietários o "DOC" (formato proprietário de texto) e o "PPT" (formato proprietário de apresentação de slides).
+Já o EPUB (formato de arquivo digital), o PNG (formato de imagem) e o MP3 (formato de áudio) são exemplos de formatos abertos. 
 
 b.2 - Discuta as implicações relacionadas a dados públicos. 
+R: O formato aberto tem seus dados acessados e utilizados por uma variedade de sistemas diferentes, 
+não requerendo software específico ou licenças para a visualização ou manipulação, sendo um dado público mais acessível. 
+Já no formato proprietário os dados são sujeitos à dependência do fornecedor do software para visualização e manipulação, podendo ter 
+restrição de licenciamento e uso, ou até mesmo envolver custos para tal, dificultando o fácil acesso a dados públicos.
