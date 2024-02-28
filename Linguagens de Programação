@@ -6,16 +6,13 @@ Linguagens de Programação
 R: O python é uma linguagem de programação de alto nível, conhecida pela sua simplicidade e legibilidade de código. É amplamente 
 usada em várias áreas, incluindo desenvolvimento web, ciência de dados, inteligência artificial e automação. Já o JAVASCRIPT 
 é uma linguagem predominante no desenvolvimento web, essencial para criar páginas interativas e dinâmicas na internet. Por fim, 
-o JAVA é uma linguagem orientada a objetos, conhecida por sua portabilidade e robustez. Geralmente, é a linguagem principal para o 
-desenvolvimento de aplicativos Android.
+o PHP é uma linguagem de script do lado do servidor popular para o desenvolvimento web, usada principalmente para criar páginas dinâmicas.
 
 a. Tente fazer um código mínimo em cada uma delas. 
 Python: print("Olá, mundo!")
 JavaScript: console.log("Olá, mundo!");
-JAVA: public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Olá, mundo!");
-    }
-}
+PHP: <?php
+echo "Olá, mundo!";
+?>
 
-b. 
+
