@@ -10,3 +10,12 @@ o JAVA é uma linguagem orientada a objetos, conhecida por sua portabilidade e r
 desenvolvimento de aplicativos Android.
 
 a. Tente fazer um código mínimo em cada uma delas. 
+Python: print("Olá, mundo!")
+JavaScript: console.log("Olá, mundo!");
+JAVA: public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
+
+b. 
