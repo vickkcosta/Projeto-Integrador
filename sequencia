@@ -1,0 +1,15 @@
+def numeros_pares (numeo):
+    return list (filter (lambda x: x% 2 == 0, range (1, numero + 1)))
+
+# Exemplo de uso
+numero = 10
+print (numeros_pares (numero)) # Saída: [3, 4, 6, , 10]
+
+def bombons (dinheiro, preco):
+    n_bombons = dinheiro // preco
+    troco = dinheiro % preco
+    return n_bombons, troco
+
+def a_mais(dinheiro,preco):
+    qtd, troco = bombons (dinheiro, preco)
+    return preco - troco
